@@ -11,6 +11,7 @@
 
 #### sideBar (.riotBar)
 Menu Superior - Localizado no topo da página, contém o logotipo da Riot Games, um botão de login e links para as principais páginas do site.
+
     - Composta por divs principais
         - riotBar-header
             a. Comporta as divs abaixo
